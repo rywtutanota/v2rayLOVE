@@ -39,7 +39,7 @@ To install and use v2rayLOVE, follow these steps:
 1. Open the terminal of your Linux distribution.
 
 2. To download the v2rayLOVE package, go to the GitHub releases page and click on '`Source code(tar.gz)`' to download the tar.gz file.
-
+- Please change `chas1kennyet` and `20230904` to your seen repository instead, as the below link may be outdated
 `https://github.com/chas1kennyet/v2rayLOVE/releases/tag/20230904`
 
 
