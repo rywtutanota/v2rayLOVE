@@ -42,8 +42,8 @@ To install and use v2rayLOVE, follow these steps:
 - Please change `chas1kennyet` and `20230904` to your seen repository instead, as the below link may be outdated.
 
 
-`https://github.com/chas1kennyet/v2rayLOVE/releases/tag/20230904`
-`https://github.com/chas1kennyet/v2rayLOVE/archive/refs/tags/20230904.tar.gz`
+- `https://github.com/chas1kennyet/v2rayLOVE/releases/tag/20230904`
+- `https://github.com/chas1kennyet/v2rayLOVE/archive/refs/tags/20230904.tar.gz`
 
 
 
