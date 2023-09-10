@@ -44,6 +44,8 @@ To install and use v2rayLOVE, follow these steps:
   - `https://github.com/chas1kennyet/v2rayLOVE/archive/refs/tags/20230904.tar.gz`
 - For example, maybe your own repository is in the following format: `https://github.com/rywtutanota/v2rayLOVE/archive/refs/tags/20230910.tar.gz`
 
+NOTE: Because the repository may be updated, moved, or renamed, you should replace the above username and version number accordingly.
+
 3. Open the terminal and enter the path of the `tar.gz` file, then extract the compressed package to `~/Desktop/v2rayLOVE/` using the following command:
 
    ```
